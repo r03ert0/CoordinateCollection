@@ -1,0 +1,375 @@
+TCoordinateCollection
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Info.plist /Users/roberto/Applications/CoordinateCollection/Info.plist
+cStripNIB /Users/roberto/Applications/CoordinateCollection/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource CoordinateCollectionAppDelegate.h build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollectionAppDelegate.h
+cDataModelCompile /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollection_DataModel.mom /Users/roberto/Applications/CoordinateCollection/CoordinateCollection_DataModel.xcdatamodel
+cProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/CoordinateCollection_Prefix-ardiiqefyejyjkgfehelkxezndbp/CoordinateCollection_Prefix.pch.pch CoordinateCollection_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/main.o /Users/roberto/Applications/CoordinateCollection/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollectionAppDelegate.o /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/MacOS/CoordinateCollection normal x86_64
+cTouch /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005243E79F00000000000000AA
+t1380181919
+s170
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c0000000052691997000000000000044C
+t1382619543
+s1100
+
+N/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c000000005269199700000000000001DB
+t1382619543
+s475
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000526777B600000000000066C0
+t1382512566
+s26304
+
+N/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.h
+c0000000044F41FED0000000000000267
+t1156849645
+s615
+
+N/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m
+c0000000044F4331B000000000000238D
+t1156854555
+s9101
+
+N/Users/roberto/Applications/CoordinateCollection/CoordinateCollection_DataModel.xcdatamodel
+c0000000044E9DE690000000000000088
+t1156177513
+s136
+
+N/Users/roberto/Applications/CoordinateCollection/CoordinateCollection_Prefix.pch
+c0000000044E1E6D600000000000000AB
+t1155655382
+s171
+
+N/Users/roberto/Applications/CoordinateCollection/English.lproj/InfoPlist.strings
+c0000000044E1E6D60000000000000118
+t1155655382
+s280
+
+N/Users/roberto/Applications/CoordinateCollection/English.lproj/MainMenu.nib
+c0000000044F40E1000000000000000AA
+t1156845072
+s170
+
+N/Users/roberto/Applications/CoordinateCollection/Info.plist
+c0000000044E1E6D6000000000000036D
+t1155655382
+s877
+
+N/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollection.LinkFileList
+c0000000052820493000000000000013B
+t1384252563
+s315
+
+N/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollectionAppDelegate.o
+t1384252564
+s57684
+
+N/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/main.o
+t1384252564
+s2840
+
+N/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app
+t1384252563
+s102
+
+N/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Info.plist
+t1384252563
+s1249
+
+N/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/MacOS/CoordinateCollection
+t1384252564
+s22772
+
+N/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/PkgInfo
+t1384252563
+s8
+
+N/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollectionAppDelegate.h
+t1384252563
+s615
+
+N/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollection_DataModel.mom
+t1384252563
+s1556
+
+N/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1384252563
+s280
+
+N/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/English.lproj/MainMenu.nib
+t1384252563
+s180437
+
+N/Users/roberto/Applications/CoordinateCollection/main.m
+c0000000044E1E6D6000000000000010D
+t1155655382
+s269
+
+N/var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/CoordinateCollection_Prefix-ardiiqefyejyjkgfehelkxezndbp/CoordinateCollection_Prefix.pch.pch
+t1384252564
+s13708780
+
+CBuild AST from /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m
+r0
+
+CBuild AST from /Users/roberto/Applications/CoordinateCollection/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesc4b3e8133c32b841^cd3fee133c32b841^---0#1#1#--18"Check dependencies36"A65EDBD7-1B76-4617-821B-FA173CBD0090-
+
+CCompileC build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollectionAppDelegate.o /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405945364.501566
+e405945364.601302
+r1
+xCompileC
+xbuild/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollectionAppDelegate.o
+x/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m
+d/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.h
+o/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:22: warning: 'path' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]
+o-(void)gather:(char*)path:(float)thr:(char *)xdescPath
+o                     ^
+o/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:22: note: introduce a parameter name to make 'path' part of the selector
+o/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:26: note: or insert whitespace before ':' to use 'path' as parameter name and have an empty entry in the selector
+o-(void)gather:(char*)path:(float)thr:(char *)xdescPath
+o                         ^
+o/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:34: warning: 'thr' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]
+o-(void)gather:(char*)path:(float)thr:(char *)xdescPath
+o                                 ^
+o/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:34: note: introduce a parameter name to make 'thr' part of the selector
+o/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:37: note: or insert whitespace before ':' to use 'thr' as parameter name and have an empty entry in the selector
+o-(void)gather:(char*)path:(float)thr:(char *)xdescPath
+o                                    ^
+o/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:28:17: warning: 'FSFindFolder' is deprecated: first deprecated in OS X 10.8 [-Wdeprecated-declarations]
+o    OSErr err = FSFindFolder(kUserDomain, kApplicationSupportFolderType, kDontCreateFolder, &foundRef);
+o                ^
+oIn file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:1:
+oIn file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollection_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:76:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:23:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/AE.framework/Headers/AE.h:20:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/CarbonCore.h:176:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Folders.h:286:1: note: 'FSFindFolder' declared here
+oFSFindFolder(
+o^
+o/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:34:9: warning: 'FSRefMakePath' is deprecated: first deprecated in OS X 10.8 [-Wdeprecated-declarations]
+o        FSRefMakePath(&foundRef, path, sizeof(path));
+o        ^
+oIn file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:1:
+oIn file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollection_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:76:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:23:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/AE.framework/Headers/AE.h:20:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/CarbonCore.h:87:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Components.h:26:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Files.h:4086:18: note: 'FSRefMakePath' declared here
+oextern OSStatus  FSRefMakePath(const FSRef *ref, UInt8 *path, UInt32 pathBufferSize)     __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_0, __MAC_10_8, __IPHONE_NA, __IPHONE_NA);
+o                 ^
+o/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:55:22: warning: 'createDirectoryAtPath:attributes:' is deprecated: first deprecated in OS X 10.5 [-Wdeprecated-declarations]
+o        [fileManager createDirectoryAtPath:applicationSupportFolder attributes:nil];
+o                     ^
+oIn file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:1:
+oIn file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollection_Prefix.pch:6:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:27:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172:1: note: method 'createDirectoryAtPath:attributes:' declared here
+o- (BOOL)createDirectoryAtPath:(NSString *)path attributes:(NSDictionary *)attributes NS_DEPRECATED(10_0, 10_5, 2_0, 2_0);
+o^
+o/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:248:36: warning: incompatible pointer types passing 'int (struct dirent *)' to parameter of type 'int (*)(const struct dirent *)' [-Wincompatible-pointer-types]
+o    nvols=scandir(roi_dir, &files, file_select, alphasort);
+o                                   ^~~~~~~~~~~
+oIn file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:167:
+oIn file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/sys/dir.h:72:
+o/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/dirent.h:144:11: note: passing argument to parameter here
+o    int (*)(const struct dirent *), int (*)(const struct dirent **, const struct dirent **)) __DARWIN_INODE64(scandir);
+o          ^
+o6 warnings generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m234"CompileC build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollectionAppDelegate.o CoordinateCollectionAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerab7780143c32b841^ccee99143c32b841^-8258"/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:22: warning: 'path' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]-(void)gather:(char*)path:(float)thr:(char *)xdescPath                     ^/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:22: note: introduce a parameter name to make 'path' part of the selector/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:26: note: or insert whitespace before ':' to use 'path' as parameter name and have an empty entry in the selector-(void)gather:(char*)path:(float)thr:(char *)xdescPath                         ^/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:34: warning: 'thr' used as the name of the previous parameter rather than as part of the selector [-Wmissing-selector-name]-(void)gather:(char*)path:(float)thr:(char *)xdescPath                                 ^/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:34: note: introduce a parameter name to make 'thr' part of the selector/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:209:37: note: or insert whitespace before ':' to use 'thr' as parameter name and have an empty entry in the selector-(void)gather:(char*)path:(float)thr:(char *)xdescPath                                    ^/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:28:17: warning: 'FSFindFolder' is deprecated: first deprecated in OS X 10.8 [-Wdeprecated-declarations]    OSErr err = FSFindFolder(kUserDomain, kApplicationSupportFolderType, kDontCreateFolder, &foundRef);                ^In file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:1:In file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollection_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:76:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:23:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/AE.framework/Headers/AE.h:20:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/CarbonCore.h:176:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Folders.h:286:1: note: 'FSFindFolder' declared hereFSFindFolder(^/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:34:9: warning: 'FSRefMakePath' is deprecated: first deprecated in OS X 10.8 [-Wdeprecated-declarations]        FSRefMakePath(&foundRef, path, sizeof(path));        ^In file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:1:In file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollection_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:76:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h:23:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/AE.framework/Headers/AE.h:20:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/CarbonCore.h:87:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Components.h:26:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Files.h:4086:18: note: 'FSRefMakePath' declared hereextern OSStatus  FSRefMakePath(const FSRef *ref, UInt8 *path, UInt32 pathBufferSize)     __OSX_AVAILABLE_BUT_DEPRECATED(__MAC_10_0, __MAC_10_8, __IPHONE_NA, __IPHONE_NA);                 ^/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:55:22: warning: 'createDirectoryAtPath:attributes:' is deprecated: first deprecated in OS X 10.5 [-Wdeprecated-declarations]        [fileManager createDirectoryAtPath:applicationSupportFolder attributes:nil];                     ^In file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:1:In file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollection_Prefix.pch:6:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h:12:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h:27:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172:1: note: method 'createDirectoryAtPath:attributes:' declared here- (BOOL)createDirectoryAtPath:(NSString *)path attributes:(NSDictionary *)attributes NS_DEPRECATED(10_0, 10_5, 2_0, 2_0);^/Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:248:36: warning: incompatible pointer types passing 'int (struct dirent *)' to parameter of type 'int (*)(const struct dirent *)' [-Wincompatible-pointer-types]    nvols=scandir(roi_dir, &files, file_select, alphasort);                                   ^~~~~~~~~~~In file included from /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m:167:In file included from /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/sys/dir.h:72:/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/dirent.h:144:11: note: passing argument to parameter here    int (*)(const struct dirent *), int (*)(const struct dirent **, const struct dirent **)) __DARWIN_INODE64(scandir);          ^6 warnings generated.6(36%IDEClangDiagnosticActivityLogMessage2@85"'path' used as the name of the previous parameter rather than as part of the selector-405945364#18446744073709551615#0#2(2@62"Introduce a parameter name to make 'path' part of the selector-405945364#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^208#21#208#21#6411#0#11"Parse Issue--2@103"Or insert whitespace before ':' to use 'path' as parameter name and have an empty entry in the selector-405945364#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^208#25#208#25#6415#0#11"Parse Issue--1#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^208#21#208#21#6411#0#11"Parse Issue--2@84"'thr' used as the name of the previous parameter rather than as part of the selector-405945364#18446744073709551615#0#2(2@61"Introduce a parameter name to make 'thr' part of the selector-405945364#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^208#33#208#33#6423#0#11"Parse Issue--2@102"Or insert whitespace before ':' to use 'thr' as parameter name and have an empty entry in the selector-405945364#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^208#36#208#36#6426#0#11"Parse Issue--1#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^208#33#208#33#6423#0#11"Parse Issue--2@59"'FSFindFolder' is deprecated: first deprecated in OS X 10.8-405945364#18446744073709551615#0#1(2@28"'FSFindFolder' declared here-405945364#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@217"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Folders.h0000000000000000^285#0#285#0#11406#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^27#16#27#16#896#0#12"Deprecations--2@60"'FSRefMakePath' is deprecated: first deprecated in OS X 10.8-405945364#18446744073709551615#0#1(2@29"'FSRefMakePath' declared here-405945364#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@215"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Headers/Files.h0000000000000000^4085#17#4085#17#173698#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^33#8#33#8#1219#0#12"Deprecations--2@80"'createDirectoryAtPath:attributes:' is deprecated: first deprecated in OS X 10.5-405945364#18446744073709551615#0#1(2@56"Method 'createDirectoryAtPath:attributes:' declared here-405945364#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@189"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h0000000000000000^171#0#171#0#14455#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^54#21#54#21#2030#0#12"Deprecations--2@112"Incompatible pointer types passing 'int (struct dirent *)' to parameter of type 'int (*)(const struct dirent *)'-405945364#18446744073709551615#0#1(2@34"Passing argument to parameter here-405945364#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@139"file:///Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/include/dirent.h0000000000000000^143#10#143#10#5513#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^247#35#247#35#7613#0#14"Semantic Issue1(3@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^247#35#247#46#7613#0#-0#0#1#-19%DVTDocumentLocation4@89"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m0000000000000000^2988"CompileC build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollectionAppDelegate.o CoordinateCollectionAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/CoordinateCollection    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/CoordinateCollection.hmap -I/Users/roberto/Applications/CoordinateCollection/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/DerivedSources/x86_64 -I/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/DerivedSources -F/Users/roberto/Applications/CoordinateCollection/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/CoordinateCollection_Prefix-ardiiqefyejyjkgfehelkxezndbp/CoordinateCollection_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollectionAppDelegate.d --serialize-diagnostics /Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollectionAppDelegate.dia -c /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.m -o /Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollectionAppDelegate.o36"7E70EA4A-6515-477B-8AE6-B20954E384E9-
+bC266244E-B45D-41B6-8A46-5DE6CE083825
+
+CCompileC build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/main.o /Users/roberto/Applications/CoordinateCollection/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405945364.501342
+e405945364.518008
+r1
+xCompileC
+xbuild/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/main.o
+x/Users/roberto/Applications/CoordinateCollection/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/CoordinateCollection/main.m
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/roberto/Applications/CoordinateCollection/main.m180"CompileC build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler016c80143c32b841^e59c84143c32b841^---0#0#1#-19%DVTDocumentLocation2@62"file:///Users/roberto/Applications/CoordinateCollection/main.m0000000000000000^2826"CompileC build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/CoordinateCollection    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/CoordinateCollection.hmap -I/Users/roberto/Applications/CoordinateCollection/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/DerivedSources/x86_64 -I/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/DerivedSources -F/Users/roberto/Applications/CoordinateCollection/build/Debug -include /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/CoordinateCollection_Prefix-ardiiqefyejyjkgfehelkxezndbp/CoordinateCollection_Prefix.pch -MMD -MT dependencies -MF /Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/main.dia -c /Users/roberto/Applications/CoordinateCollection/main.m -o /Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/main.o36"927C7A0C-52BF-4503-907D-D0A65A330AE0-
+bC266244E-B45D-41B6-8A46-5DE6CE083825
+
+CCopyStringsFile /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s405945363.934351
+e405945363.937157
+r1
+xCopyStringsFile
+x/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings135"CopyStringsFile build/Debug/CoordinateCollection.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings5742ef133c32b841^b8e9ef133c32b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/roberto/Applications/CoordinateCollection/English.lproj/InfoPlist.strings0000000000000000^437"CopyStringsFile build/Debug/CoordinateCollection.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/roberto/Applications/CoordinateCollection    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"B1E41D23-E366-41B1-8CCC-8E190430081E-
+bC266244E-B45D-41B6-8A46-5DE6CE083825
+
+CCpResource CoordinateCollectionAppDelegate.h build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollectionAppDelegate.h
+s405945363.934578
+e405945363.936103
+r1
+xCpResource
+xCoordinateCollectionAppDelegate.h
+xbuild/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollectionAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Copy build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollectionAppDelegate.h134"CpResource CoordinateCollectionAppDelegate.h build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollectionAppDelegate.hca4eef133c32b841^4bc8ef133c32b841^---0#0#1#-19%DVTDocumentLocation2@145"file:///Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollectionAppDelegate.h0034a08ddcffdf42^491"CpResource CoordinateCollectionAppDelegate.h build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollectionAppDelegate.h    cd /Users/roberto/Applications/CoordinateCollection    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Users/roberto/Applications/CoordinateCollection/CoordinateCollectionAppDelegate.h /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources36"128EA3F6-A863-4A8F-AA8E-CDA63755EE1F-
+bC266244E-B45D-41B6-8A46-5DE6CE083825
+
+CDataModelCompile /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollection_DataModel.mom /Users/roberto/Applications/CoordinateCollection/CoordinateCollection_DataModel.xcdatamodel
+s405945363.942867
+e405945363.986583
+r1
+xDataModelCompile
+x/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollection_DataModel.mom
+x/Users/roberto/Applications/CoordinateCollection/CoordinateCollection_DataModel.xcdatamodel
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Compile /Users/roberto/Applications/CoordinateCollection/CoordinateCollection_DataModel.xcdatamodel150"DataModelCompile build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollection_DataModel.mom CoordinateCollection_DataModel.xcdatamodelfd6bf1133c32b841^0492fc133c32b841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollection_DataModel.xcdatamodel/0000000000000000^693"DataModelCompile build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollection_DataModel.mom CoordinateCollection_DataModel.xcdatamodel    cd /Users/roberto/Applications/CoordinateCollection    /Applications/_Programming/Xcode.app/Contents/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -MOMC_PLATFORMS macosx -XD_MOMC_TARGET_VERSION=10.9 /Users/roberto/Applications/CoordinateCollection/CoordinateCollection_DataModel.xcdatamodel /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/CoordinateCollection_DataModel.mom36"2C817687-6B83-4FA1-BE57-B4D0403F5F1C-
+bC266244E-B45D-41B6-8A46-5DE6CE083825
+
+CLd /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/MacOS/CoordinateCollection normal x86_64
+s405945364.601813
+e405945364.729779
+r1
+xLd
+x/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/MacOS/CoordinateCollection
+xnormal
+xx86_64
+d/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollection.LinkFileList
+d/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/main.o
+d/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollectionAppDelegate.o
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.osx.a
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Link /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/MacOS/CoordinateCollection89"Ld build/Debug/CoordinateCollection.app/Contents/MacOS/CoordinateCollection normal x86_64371c9a143c32b841^c955bc143c32b841^---0#0#1#--1140"Ld build/Debug/CoordinateCollection.app/Contents/MacOS/CoordinateCollection normal x86_64    cd /Users/roberto/Applications/CoordinateCollection    setenv MACOSX_DEPLOYMENT_TARGET 10.9    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Users/roberto/Applications/CoordinateCollection/build/Debug -F/Users/roberto/Applications/CoordinateCollection/build/Debug -filelist /Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollection.LinkFileList -mmacosx-version-min=10.9 -fobjc-link-runtime -framework Cocoa -Xlinker -dependency_info -Xlinker /Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/Objects-normal/x86_64/CoordinateCollection_dependency_info.dat -o /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/MacOS/CoordinateCollection36"8C27D9B2-D784-49AD-A322-BB2087DA2D8A-
+bC266244E-B45D-41B6-8A46-5DE6CE083825
+
+CProcessInfoPlistFile /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Info.plist /Users/roberto/Applications/CoordinateCollection/Info.plist
+s405945363.931660
+e405945363.933730
+r1
+xProcessInfoPlistFile
+x/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Info.plist
+x/Users/roberto/Applications/CoordinateCollection/Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Process /Users/roberto/Applications/CoordinateCollection/Info.plist88"ProcessInfoPlistFile build/Debug/CoordinateCollection.app/Contents/Info.plist Info.plist499fee133c32b841^a0c0ef133c32b841^---0#0#1#-19%DVTDocumentLocation2@66"file:///Users/roberto/Applications/CoordinateCollection/Info.plist0000000000000000^496"ProcessInfoPlistFile build/Debug/CoordinateCollection.app/Contents/Info.plist Info.plist    cd /Users/roberto/Applications/CoordinateCollection    builtin-infoPlistUtility /Users/roberto/Applications/CoordinateCollection/Info.plist -genpkginfo /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Info.plist36"CA3416FA-AB68-4221-A481-133A693A263D-
+bC266244E-B45D-41B6-8A46-5DE6CE083825
+
+CProcessPCH /Users/roberto/Library/Developer/Xcode/DerivedData/CoordinateCollection-hariavikfohxvlelqbmjuvlhldqb/Index/PrecompiledHeaders/CoordinateCollection_Prefix-crogoprihcavhmarrdjnhqiwthvt_ast/CoordinateCollection_Prefix.pch.pch CoordinateCollection_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/CoordinateCollection_Prefix-ardiiqefyejyjkgfehelkxezndbp/CoordinateCollection_Prefix.pch.pch CoordinateCollection_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s405945363.943332
+e405945364.500567
+r1
+xProcessPCH
+x/var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/CoordinateCollection_Prefix-ardiiqefyejyjkgfehelkxezndbp/CoordinateCollection_Prefix.pch.pch
+xCoordinateCollection_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/roberto/Applications/CoordinateCollection/CoordinateCollection_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection42"Precompile CoordinateCollection_Prefix.pch323"ProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/CoordinateCollection_Prefix-ardiiqefyejyjkgfehelkxezndbp/CoordinateCollection_Prefix.pch.pch CoordinateCollection_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler68cbf1133c32b841^202780143c32b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/roberto/Applications/CoordinateCollection/CoordinateCollection_Prefix.pch0000000000000000^2982"ProcessPCH /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/CoordinateCollection_Prefix-ardiiqefyejyjkgfehelkxezndbp/CoordinateCollection_Prefix.pch.pch CoordinateCollection_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/roberto/Applications/CoordinateCollection    setenv LANG en_US.US-ASCII    /Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/_Programming/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.9 -g -fvisibility=hidden -Wno-sign-conversion -I/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/CoordinateCollection.hmap -I/Users/roberto/Applications/CoordinateCollection/build/Debug/include -I/Applications/_Programming/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/DerivedSources/x86_64 -I/Users/roberto/Applications/CoordinateCollection/build/CoordinateCollection.build/Debug/CoordinateCollection.build/DerivedSources -F/Users/roberto/Applications/CoordinateCollection/build/Debug --serialize-diagnostics /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/CoordinateCollection_Prefix-ardiiqefyejyjkgfehelkxezndbp/CoordinateCollection_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/CoordinateCollection_Prefix-ardiiqefyejyjkgfehelkxezndbp/CoordinateCollection_Prefix.pch.d -c /Users/roberto/Applications/CoordinateCollection/CoordinateCollection_Prefix.pch -o /var/folders/w1/qnhkrsc97nddjm3vf00ppx940000gn/C/com.apple.DeveloperTools/5.0.1-5A2053/Xcode/SharedPrecompiledHeaders/CoordinateCollection_Prefix-ardiiqefyejyjkgfehelkxezndbp/CoordinateCollection_Prefix.pch.pch36"C9DBA506-60A5-4161-97BE-D9B7C66551F0-
+bC266244E-B45D-41B6-8A46-5DE6CE083825
+
+CStripNIB /Users/roberto/Applications/CoordinateCollection/English.lproj/MainMenu.nib
+s405945363.934194
+e405945363.942334
+r1
+xStripNIB
+x/Users/roberto/Applications/CoordinateCollection/English.lproj/MainMenu.nib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Processing /Users/roberto/Applications/CoordinateCollection/English.lproj/MainMenu.nib35"StripNIB English.lproj/MainMenu.nib8140ef133c32b841^963df1133c32b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/roberto/Applications/CoordinateCollection/English.lproj/MainMenu.nib/0000000000000000^522"StripNIB English.lproj/MainMenu.nib    cd /Users/roberto/Applications/CoordinateCollection    setenv XCODE_DEVELOPER_USR_PATH /Applications/_Programming/Xcode.app/Contents/Developer/usr/bin/..    /Applications/_Programming/Xcode.app/Contents/Developer/usr/bin/ibtool --strip /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/roberto/Applications/CoordinateCollection/English.lproj/MainMenu.nib36"FE09EE94-3833-4EB8-BD6C-0356FAB2FC1A-
+bC266244E-B45D-41B6-8A46-5DE6CE083825
+
+CTouch /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app
+s405945364.730497
+e405945364.734702
+r1
+xTouch
+x/Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Touch /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app42"Touch build/Debug/CoordinateCollection.appa20abb143c32b841^ab5cbc143c32b841^---0#0#1#--207"Touch build/Debug/CoordinateCollection.app    cd /Users/roberto/Applications/CoordinateCollection    /usr/bin/touch -c /Users/roberto/Applications/CoordinateCollection/build/Debug/CoordinateCollection.app36"44C4BBAE-C920-4A27-8FD4-E089DB8D0C68-
+bC266244E-B45D-41B6-8A46-5DE6CE083825
+

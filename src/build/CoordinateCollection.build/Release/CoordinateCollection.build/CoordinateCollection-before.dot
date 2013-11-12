@@ -1,0 +1,71 @@
+digraph CoordinateCollection {
+   size = "10.000000,8.500000";
+   concentrate = false;
+
+   node [ shape = box, style = filled, color = "0.3 0.5 0.6", fillcolor = "0.3 0.2 0.9", fontname = "Monaco", fontsize = "9" ];
+   n00001 [ label = "Release/CoordinateCollection.app\nb63bc70a3f4f3123c38c421c1d645536\nDepsUpdated", color = "0.1 0.5 0.5", fillcolor = "0.1 0.2 0.9", peripheries = 3 ];
+   n00002 [ label = "Contents/Info.plist\n0146cb910d58f917393304019854e141\nUpToDate" ];
+   n00003 [ label = "CoordinateCollection.build/Info.plist\n0000000044f456dc000000000000033d\nUpToDate" ];
+   n00004 [ label = "Contents/PkgInfo\n5273f75951daa8687d63d70e76a3f053\nUpToDate" ];
+   n00005 [ label = "CoordinateCollection.build/PkgInfo\n0000000044f456dd0000000000000008\nUpToDate" ];
+   n00006 [ label = "English.lproj/MainMenu.nib\nff8e29054c99cab92c1cf0429778ead1\nUpToDate" ];
+   n00007 [ label = "English.lproj/MainMenu.nib\n0000000044f456e300000000000000aa\nUpToDate" ];
+   n00008 [ label = "English.lproj/InfoPlist.strings\n174473e1c8b4ffec952d54441ed7a85b\nUpToDate" ];
+   n00009 [ label = "English.lproj/InfoPlist.strings\n0000000044f456e20000000000000118\nUpToDate" ];
+   n00010 [ label = "Resources/CoordinateCollectionAppDelegate.h\na05dc273c45383f808a902128cf75d5a\nUpToDate" ];
+   n00011 [ label = "CoordinateCollection/CoordinateCollectionAppDelegate.h\n0000000044f456e10000000000000267\nUpToDate" ];
+   n00012 [ label = "ppc/main.o\n10a9ca30de523b1fd6b1fe1bfd0ba8ee\nDepsUpdated", color = "0.1 0.5 0.5", fillcolor = "0.1 0.2 0.9" ];
+   n00013 [ label = "CoordinateCollection/CoordinateCollection_Prefix.pch\n0000000044f456e100000000000000ab\nUpToDate" ];
+   n00014 [ label = "CoordinateCollection_Prefix-czvntkzcmuioxuaqsulbjptigojl/CoordinateCollection_Prefix.pch.gch\n602b5f0735bc0b67c11d11fe89388669\nMissing", color = "0.1 0.5 0.5", fillcolor = "0.1 0.2 0.9", peripheries = 3 ];
+   n00015 [ label = "CoordinateCollection/main.m\n0000000044f456e4000000000000010d\nUpToDate" ];
+   n00016 [ label = "ppc/CoordinateCollectionAppDelegate.o\nd3892e8a9d0732ca9f9946f1b52ce72c\nDepsUpdated", color = "0.1 0.5 0.5", fillcolor = "0.1 0.2 0.9" ];
+   n00017 [ label = "CoordinateCollection/CoordinateCollectionAppDelegate.m\n0000000044f456e1000000000000238d\nUpToDate" ];
+   n00018 [ label = "ppc/CoordinateCollection_DataModel.mom\nfac851fbf8b3fcf1fed211e3544c8c9b\nUpToDate" ];
+   n00019 [ label = "CoordinateCollection/CoordinateCollection_DataModel.xcdatamodel\n0000000044f456e10000000000000088\nUpToDate" ];
+   n00020 [ label = "Resources/CoordinateCollection_DataModel.mom\n5f35bebc30899d26b381577aa472f91c\nUpToDate", peripheries = 3 ];
+   n00021 [ label = "MacOS/CoordinateCollection\n64a9b505ca6788df8f238d555f03f118\nDepsUpdated", color = "0.1 0.5 0.5", fillcolor = "0.1 0.2 0.9" ];
+   n00022 [ label = "Frameworks/Cocoa.framework[C]\n00000000446b17c700000000000000cc\nUpToDate" ];
+
+   node [ shape = box, style = "filled,bold", color = "0.7 0.5 0.7", fillcolor = "0.7 0.2 1.0", fontname = "Monaco", fontsize = "9" ];
+   c00001 [ label = "PBXCp Info.plist <wt:0>\nwaitCount: 0\n0000000044f456dc000000000000033d\n^ 0146cb9149acafcb393304019854e27c\n= 0146cb910d58f917393304019854e141\nDoesNotNeedToRun\n(no 'why' info)" ];
+   c00002 [ label = "PBXCp PkgInfo <wt:0>\nwaitCount: 0\n00000000000000000000000000000000\n^ 5273f75951daa8687d63d70e76a3f053\n= 5273f75951daa8687d63d70e76a3f053\nDoesNotNeedToRun\n(no 'why' info)" ];
+   c00003 [ label = "CpResource MainMenu.nib <wt:2>\nwaitCount: 0\n00000000000000000000000000000000\n^ ff8e29054c99cab92c1cf0429778ead1\n= ff8e29054c99cab92c1cf0429778ead1\nDoesNotNeedToRun\n(no 'why' info)" ];
+   c00004 [ label = "CpResource InfoPlist.strings <wt:2>\nwaitCount: 0\n00000000000000000000000000000000\n^ 174473e1c8b4ffec952d54441ed7a85b\n= 174473e1c8b4ffec952d54441ed7a85b\nDoesNotNeedToRun\n(no 'why' info)" ];
+   c00005 [ label = "CpResource CoordinateCollectionAppDelegate.h <wt:2>\nwaitCount: 0\n00000000000000000000000000000000\n^ a05dc273c45383f808a902128cf75d5a\n= a05dc273c45383f808a902128cf75d5a\nDoesNotNeedToRun\n(no 'why' info)" ];
+   c00006 [ label = "CompileC main.o <wt:4>\nwaitCount: 1\n602b5f0771485d83c11d11fe89388764\n^ 70829537af1a669c17acefe574332f8a\n= 10a9ca30de523b1fd6b1fe1bfd0ba8ee\nIndirectlyNeedsToRun\nNeeds to run because at least one of the inputs to the command are scheduled to be updated.", color = "0.6 0.5 0.7", fillcolor = "0.6 0.2 1.0" ];
+   c00007 [ label = "ProcessPCH CoordinateCollection_Prefix.pch.gch <wt:3>\nwaitCount: 0\n0000000044f456e100000000000000ab\n^ 602b5f0771485d86c11d11fe893886c2\n= 602b5f0735bc0b67c11d11fe89388669\nNeedsToRun\n1 output is missing", color = "0.6 0.5 0.7", fillcolor = "0.6 0.2 1.0" ];
+   c00008 [ label = "CompileC CoordinateCollectionAppDelegate.o <wt:4>\nwaitCount: 1\n602b5f0735bc0b67c11d11fe8938a783\n^ b3a2718da8bb39ad5e84570f3c1440af\n= d3892e8a9d0732ca9f9946f1b52ce72c\nIndirectlyNeedsToRun\nNeeds to run because at least one of the inputs to the command are scheduled to be updated.", color = "0.6 0.5 0.7", fillcolor = "0.6 0.2 1.0" ];
+   c00009 [ label = "DataModelCompile CoordinateCollection_DataModel.mom <wt:4>\nwaitCount: 0\n0000000044f456e10000000000000088\n^ fac851fbbc47aa10fed211e3544c8c13\n= fac851fbf8b3fcf1fed211e3544c8c9b\nDoesNotNeedToRun\n(no 'why' info)" ];
+   c00010 [ label = "PBXCp CoordinateCollection_DataModel.mom <wt:4>\nwaitCount: 0\nfac851fbf8b3fcf1fed211e3544c8c9b\n^ a5fdef47c83a61d74d534699f03e7587\n= 5f35bebc30899d26b381577aa472f91c\nDoesNotNeedToRun\n(no 'why' info)" ];
+   c00011 [ label = "Ld CoordinateCollection <wt:4>\nwaitCount: 2\nc320e4ba073e1e124928b8ea48274f0e\n^ a78951bfcd5996cdc60b35bf1724be16\n= 64a9b505ca6788df8f238d555f03f118\nIndirectlyNeedsToRun\nNeeds to run because at least one of the inputs to the command are scheduled to be updated.", color = "0.6 0.5 0.7", fillcolor = "0.6 0.2 1.0" ];
+   c00012 [ label = "Touch CoordinateCollection.app <wt:7>\nwaitCount: 1\n7f0b115ad69b6f0d7aebf84eb4acffda\n^ c930d650e9d45e2eb967ba52a9c8aaec\n= b63bc70a3f4f3123c38c421c1d645536\nIndirectlyNeedsToRun\nNeeds to run because at least one of the inputs to the command are scheduled to be updated.", color = "0.6 0.5 0.7", fillcolor = "0.6 0.2 1.0" ];
+
+   edge [ style = solid, color = black, arrowhead = none, arrowtail = normal ];
+   n00001 -> { c00012 };
+   n00002 -> { c00001 };
+   n00004 -> { c00002 };
+   n00006 -> { c00003 };
+   n00008 -> { c00004 };
+   n00010 -> { c00005 };
+   n00012 -> { c00006 };
+   n00014 -> { c00007 };
+   n00016 -> { c00008 };
+   n00018 -> { c00009 };
+   n00020 -> { c00010 };
+   n00021 -> { c00011 };
+   c00001 -> { n00003 };
+   c00002 -> { n00005 n00005 };
+   c00003 -> { n00007 n00007 };
+   c00004 -> { n00009 n00009 };
+   c00005 -> { n00011 n00011 };
+   c00006 -> { n00014 n00015 };
+   c00007 -> { n00013 };
+   c00008 -> { n00014 n00017 };
+   c00009 -> { n00019 };
+   c00010 -> { n00018 };
+   c00011 -> { n00012 n00016 n00022 };
+   c00012 -> { n00002 n00004 n00006 n00008 n00010 n00021 };
+
+   edge [ style = solid, color = gray60, arrowhead = none, arrowtail = normal ];
+   n00017 -> { n00011 };
+}
